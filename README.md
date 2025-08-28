@@ -37,7 +37,7 @@ These projects are carefully selected to demonstrate skills that hiring managers
 ### 1. Telecom Customer Churn Prediction  
 
 📸 **Output Preview:**  
-![Churn Dashboard](assets/Customer%20churn%20Dashboard.png)  
+<img width="910" height="579" alt="Customer churn Dashboard" src="https://github.com/user-attachments/assets/f849959a-0161-4ab3-aadb-10ccdd28af2f" />
 
 ---
 
