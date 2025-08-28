@@ -40,9 +40,10 @@ These projects are carefully selected to demonstrate skills that hiring managers
 Predicting customer churn to reduce revenue loss and improve retention strategies
 
 
-<img width="877" height="462" alt="image" src="https://github.com/user-attachments/assets/f8e670b8-2442-4ce7-adcf-02dfcba84a8c" />
-<img width="877" height="462" alt="image" src="https://github.com/user-attachments/assets/344450e5-ec81-43ec-b2a3-024105e00ca9" />
-<img width="877" height="462" alt="image" src="https://github.com/user-attachments/assets/e73de3c8-c2c6-4acd-853b-1590100a0919" />
+<img width="738" height="278" alt="image" src="https://github.com/user-attachments/assets/679ef54c-f094-4dcd-af83-432f4e71d06d" />
+<img width="738" height="278" alt="image" src="https://github.com/user-attachments/assets/0e71dc67-e470-410f-af94-375499f7cde3" />
+<img width="738" height="278" alt="image" src="https://github.com/user-attachments/assets/29c5a8ba-cd63-4622-b228-e10bc1d06efc" />
+
 
 
 
