@@ -40,7 +40,7 @@ These projects are carefully selected to demonstrate skills that hiring managers
 Predicting customer churn to reduce revenue loss and improve retention strategies
 
 
-<img width="910" height="502" alt="Customer churn Dashboard" src="https://github.com/user-attachments/assets/cf30c956-c078-4660-9478-8507a8441bb7" />
+<img width="1136" height="581" alt="image" src="https://github.com/user-attachments/assets/7041ec7f-1e35-4351-b31f-308bdd06dc32" />
 
 **📉 Business Problem:**  
 Telecom companies lose millions annually due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
