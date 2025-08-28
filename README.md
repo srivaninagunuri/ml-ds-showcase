@@ -41,6 +41,10 @@ Predicting customer churn to reduce revenue loss and improve retention strategie
 
 
 <img width="1136" height="581" alt="image" src="https://github.com/user-attachments/assets/7041ec7f-1e35-4351-b31f-308bdd06dc32" />
+<img width="1149" height="462" alt="image" src="https://github.com/user-attachments/assets/344450e5-ec81-43ec-b2a3-024105e00ca9" />
+<img width="1134" height="465" alt="image" src="https://github.com/user-attachments/assets/e73de3c8-c2c6-4acd-853b-1590100a0919" />
+
+
 
 **📉 Business Problem:**  
 Telecom companies lose millions annually due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
