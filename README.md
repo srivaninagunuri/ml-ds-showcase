@@ -1,37 +1,145 @@
-<h1 align="center">Hi 👋, I'm Srivaninagunuri</h1>
-<h3 align="center">“Solving business problems with data-driven approaches—featuring modeling, dashboards, and deployment.”</h3>
+# 🚀 Srivani’s Data Science Portfolio | From Learning to Job-Ready  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivaninagunuri&label=Profile%20views&color=0e75b6&style=flat" alt="srivaninagunuri" /> </p>
+Welcome to my Data Science Portfolio!  
+I am **Srivani Nagunuri**, a certified **Data Science professional from IIT Madras (GUVI)** and an **aspiring Data Scientist**.  
+This portfolio showcases my **top 5 end-to-end projects** that reflect real-world business problems, hands-on implementation, and industry-ready solutions.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivaninagunuri" alt="srivaninagunuri" /></a> </p>
+💡 **Career Goal:** To leverage **Machine Learning, Deep Learning, NLP, and Generative AI** to deliver impactful insights and business value.  
 
-- 🔭 I’m currently working on **Building end-to-end data science dashboards using real-world datasets, focusing on customer behavior prediction, visualization, and deployment with Streamlit.**
+---
 
-- 🌱 I’m currently learning **Full-stack data science with frameworks like Scikit-learn, TensorFlow, Streamlit, and FastAPI, through courses by IIT Madras and Coursera.**
+## 📋 Table of Contents  
+- 🎯 [Why These Projects?](#-why-these-projects)  
+- 🔥 [Project Showcase](#-project-showcase)  
+  1. [Telecom Customer Churn Prediction](#1-telecom-customer-churn-prediction)  
+  2. [GenAI Research Paper Insight Extractor](#2-genai-research-paper-insight-extractor)  
+  3. [Retail Demand Forecasting (Time Series Pipeline)](#3-retail-demand-forecasting-time-series-pipeline)  
+  4. [Twitter Sentiment Analysis Dashboard](#4-twitter-sentiment-analysis-dashboard)  
+  5. [Heart Disease Prediction (Neural Network)](#5-heart-disease-prediction-neural-network)  
 
-- 👯 I’m looking to collaborate on **Open-source data science projects involving machine learning, analytics dashboards, or AI research applications.**
+---
 
-- 🤝 I’m looking for help with **Improving model deployment workflows and optimizing machine learning pipelines for real-world scalability.**
+## 🎯 Why These Projects?  
 
-- 👨‍💻 All of my projects are available at [https://github.com/srivaninagunuri/ml-ds-showcase/edit/main/README.md](https://github.com/srivaninagunuri/ml-ds-showcase/edit/main/README.md)
+These projects are carefully selected to demonstrate skills that hiring managers actively seek in 2025:  
 
-- 💬 Ask me about **Machine Learning, Data Science Projects, Model Deployment, Streamlit Dashboards, or anything Python!**
+✅ **Real-world Business Focus** – Each project solves a real business problem  
+✅ **End-to-End Implementation** – Covers the pipeline: from data collection → cleaning → modeling → deployment  
+✅ **Modern Tech Stack** – Uses industry tools (Python, ML, DL, NLP, Generative AI, Streamlit, SQL)  
+✅ **Production-Ready Code** – Clean, modular, and scalable  
+✅ **Diverse Skill Set** – Time Series, Classification, NLP, Dashboards, and GenAI  
+✅ **Each project = 1 interview story** 📈  
 
-- 📫 How to reach me **nagunurisrivani01@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a5M4tnLuZiv5nYlJRctHTZNd-yANnYbS/view?usp=sharing](https://drive.google.com/file/d/1a5M4tnLuZiv5nYlJRctHTZNd-yANnYbS/view?usp=sharing)
+## 🔥 Project Showcase  
 
-- ⚡Fun fact **Machine learning models are like toddlers — they learn from examples and get better with practice!**
+### 1. Telecom Customer Churn Prediction  
+**📉 Business Problem:** Telecom companies lose millions due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srivaninagunuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivaninagunuri" height="30" width="40" /></a>
-</p>
+**🎯 Target Metrics:**  
+- Recall > 75% for high-value customers  
+- Precision > 80% to avoid customer annoyance  
+- F1-Score > 77% for balanced performance  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**🔧 Technical Highlights:**  
+- Advanced feature engineering on customer behavior  
+- Handling class imbalance with **SMOTE + cost-sensitive learning**  
+- Ensemble methods (**Random Forest, XGBoost, Logistic Regression**)  
+- Bayesian hyperparameter optimization  
+- Customer segmentation + threshold optimization  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaninagunuri&show_icons=true&locale=en&layout=compact" alt="srivaninagunuri" /></p>
+**🛠 Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Streamlit, Plotly  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivaninagunuri&show_icons=true&locale=en" alt="srivaninagunuri" /></p>
+📸 *Output:* Interactive Churn Dashboard  
 
+---
+
+### 2. GenAI Research Paper Insight Extractor  
+**📄 Business Problem:** Researchers spend hours reading papers to extract insights. This tool enables **semantic search + Q&A** over uploaded research papers.  
+
+**🎯 Target Metrics:**  
+- 90%+ accuracy in Q&A tasks  
+- 70%+ reduction in reading time  
+- Multi-format support (PDF, Text, Docs)  
+
+**🔧 Technical Highlights:**  
+- Retrieval-Augmented Generation (**RAG**) architecture  
+- Vector embeddings with **OpenAI + Sentence Transformers**  
+- Semantic chunking + similarity search with **ChromaDB**  
+- Interactive **Streamlit interface**  
+
+**🛠 Tech Stack:** Python, LangChain, OpenAI API, Streamlit, ChromaDB  
+
+📸 *Output:* Research Paper Q&A Interface  
+
+---
+
+### 3. Retail Demand Forecasting (Time Series Pipeline)  
+**📈 Business Problem:** Retailers face losses due to overstocking or stockouts. Accurate demand forecasting reduces inventory costs and improves sales.  
+
+**🎯 Target Metrics:**  
+- MAPE < 10% (short-term forecast 1–4 weeks)  
+- RMSE improvement > 15% over baselines  
+- 95% prediction intervals for uncertainty  
+
+**🔧 Technical Highlights:**  
+- Feature engineering: lags, rolling averages, seasonality decomposition  
+- Models: **ARIMA, Prophet, LSTM, Transformer**  
+- Automated hyperparameter tuning with **Optuna**  
+- Deployment with **Streamlit Dashboard**  
+
+**🛠 Tech Stack:** Python, TensorFlow, Prophet, Optuna, Streamlit, Plotly  
+
+📸 *Output:* Forecasting Dashboard with 7-day & 28-day predictions  
+
+---
+
+### 4. Twitter Sentiment Analysis Dashboard  
+**🛒 Business Problem:** Companies need to track customer sentiment in real-time for **brand reputation management**. Manual tracking is slow and incomplete.  
+
+**🎯 Target Metrics:**  
+- Sentiment classification accuracy > 90%  
+- Near real-time processing of tweets  
+- Dashboard for visual insights  
+
+**🔧 Technical Highlights:**  
+- NLP preprocessing: tokenization, stopword removal, lemmatization  
+- Sentiment classification with **Transformers (BERT)**  
+- Data visualization with **Plotly & Streamlit**  
+- Time series trend analysis of sentiment  
+
+**🛠 Tech Stack:** Python, Transformers, Scikit-learn, Streamlit, Plotly  
+
+📸 *Output:* Live Sentiment Dashboard  
+
+---
+
+### 5. Heart Disease Prediction (Neural Network)  
+**🏥 Business Problem:** Early detection of heart disease reduces healthcare costs and saves lives.  
+
+**🎯 Target Metrics:**  
+- Sensitivity > 90% (minimize false negatives)  
+- AUC-ROC > 0.92 overall performance  
+
+**🔧 Technical Highlights:**  
+- Dataset preprocessing + feature scaling  
+- Deep Neural Network (**Keras + TensorFlow**)  
+- Model evaluation with ROC curves, precision-recall  
+- Deployment with **Streamlit app**  
+
+**🛠 Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Streamlit  
+
+📸 *Output:* Heart Disease Risk Prediction Dashboard  
+
+---
+
+## 🤝 Connect  
+
+📌 **GitHub:** [github.com/srivani](https://github.com/)  
+📌 **LinkedIn:** [linkedin.com/in/srivani](https://linkedin.com/)  
+📌 **Portfolio Dashboard Apps:** (add Streamlit/other links if hosted)  
+
+---
+
+⭐ If this portfolio inspires you, consider giving it a star!  
