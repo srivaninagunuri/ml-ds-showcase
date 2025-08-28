@@ -73,8 +73,8 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 **🛠 Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Streamlit, Plotly  
 📸 **Output Preview:**  
-<img width="765" height="493" alt="image" src="https://github.com/user-attachments/assets/4b2e0353-285e-4346-a45e-f8f819aa5b94" />
-<img width="759" height="204" alt="image" src="https://github.com/user-attachments/assets/d955eaba-5925-4264-a1c0-5bac9d548bb6" />
+<img width="1093" height="519" alt="image" src="https://github.com/user-attachments/assets/a7e95c2f-5eb3-4c9c-b567-df7d0317db42" />
+<img width="948" height="318" alt="image" src="https://github.com/user-attachments/assets/b81f79ba-1fd5-4015-8075-ccc9fdfd4d99" />
 
 
 
