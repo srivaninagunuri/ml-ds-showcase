@@ -40,9 +40,7 @@ These projects are carefully selected to demonstrate skills that hiring managers
 Predicting customer churn to reduce revenue loss and improve retention strategies
 
 
-<img width="705" height="261" alt="image" src="https://github.com/user-attachments/assets/2c90a73a-acb7-4e4f-aed4-53f481e82308" />
-<img width="705" height="261" alt="image" src="https://github.com/user-attachments/assets/54de83a6-e510-4922-b6aa-3d7029750d2c" />
-<img width="705" height="261" alt="image" src="https://github.com/user-attachments/assets/61af84f0-70a7-4187-b5c2-52fe845de205" />
+<img width="716" height="534" alt="image" src="https://github.com/user-attachments/assets/375a37de-6ede-40da-b039-e1c3e7226db5" />
 
 
 
@@ -73,8 +71,8 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 **🛠 Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Streamlit, Plotly  
 📸 **Output Preview:**  
-<img width="696" height="330" alt="image" src="https://github.com/user-attachments/assets/863c5950-e0ea-4571-a57d-f5a204f07c62" />
-<img width="996" height="330" alt="image" src="https://github.com/user-attachments/assets/1af5973b-a694-4c68-bacd-8629a05e3a99" />
+<img width="765" height="493" alt="image" src="https://github.com/user-attachments/assets/4b2e0353-285e-4346-a45e-f8f819aa5b94" />
+<img width="759" height="204" alt="image" src="https://github.com/user-attachments/assets/d955eaba-5925-4264-a1c0-5bac9d548bb6" />
 
 
 
