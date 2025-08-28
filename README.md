@@ -2,7 +2,7 @@
 
 Welcome to my Data Science Portfolio!  
 I am **Srivani Nagunuri**, a certified **Data Science professional from IIT Madras (GUVI)** and an **aspiring Data Scientist**.  
-This portfolio showcases my **top 5 end-to-end projects** that reflect real-world business problems
+This portfolio showcases my **top 5 end-to-end projects** that reflect real-world business problems,
 hands-on implementation, and industry-ready solutions.  
 
 💡 **Career Goal:** To leverage **Machine Learning, Deep Learning, NLP, and Generative AI**
