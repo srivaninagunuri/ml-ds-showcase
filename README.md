@@ -41,7 +41,7 @@ Predicting customer churn to reduce revenue loss and improve retention strategie
 
 
 <img width="1091" height="274" alt="image" src="https://github.com/user-attachments/assets/cb03f0a6-9f9e-4f65-93cd-386fc4ca69bf" />
-<img width="1090" height="295" alt="image" src="https://github.com/user-attachments/assets/e42df50f-ad12-4d84-90e1-a7848ee5d7a1" />
+<img width="990" height="274" alt="image" src="https://github.com/user-attachments/assets/e42df50f-ad12-4d84-90e1-a7848ee5d7a1" />
 
 
 
