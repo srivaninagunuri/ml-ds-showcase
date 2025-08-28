@@ -35,25 +35,35 @@ These projects are carefully selected to demonstrate skills that hiring managers
 ## 🔥 Project Showcase  
 
 ### 1. Telecom Customer Churn Prediction  
-![Churn Dashboard](assets/Customer churn dashboard.png)
 
-**📉 Business Problem:** Telecom companies lose millions due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
+📸 **Output Preview:**  
+![Churn Dashboard](assets/Customer%20churn%20Dashboard.png)  
+
+---
+
+**📉 Business Problem:**  
+Telecom companies lose millions annually due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
 
 **🎯 Target Metrics:**  
 - Recall > 75% for high-value customers  
 - Precision > 80% to avoid customer annoyance  
 - F1-Score > 77% for balanced performance  
+- Estimated Business Impact: **$2.3M revenue saved annually**  
+
+**📊 Dataset Source:**  
+- Telco Customer Churn Dataset (7,043 customers, 21 features)  
+- Features: Demographics, services, account info, charges  
+- Target: Binary classification (Churn: Yes/No)  
+- Class Distribution: 73.5% retained, 26.5% churned  
 
 **🔧 Technical Highlights:**  
 - Advanced feature engineering on customer behavior  
-- Handling class imbalance with **SMOTE + cost-sensitive learning**  
-- Ensemble methods (**Random Forest, XGBoost, Logistic Regression**)  
+- Class imbalance handled using **SMOTE + cost-sensitive learning**  
+- Ensemble methods: **Random Forest, XGBoost, Logistic Regression**  
 - Bayesian hyperparameter optimization  
-- Customer segmentation + threshold optimization  
+- Customer segmentation + threshold tuning for business KPIs  
 
 **🛠 Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Streamlit, Plotly  
-
-📸 *Output:* Interactive Churn Dashboard  
 
 ---
 
