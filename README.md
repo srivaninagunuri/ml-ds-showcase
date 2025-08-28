@@ -35,6 +35,8 @@ These projects are carefully selected to demonstrate skills that hiring managers
 ## 🔥 Project Showcase  
 
 ### 1. Telecom Customer Churn Prediction  
+![Churn Dashboard](assets/Customer churn dashboard.png)
+
 **📉 Business Problem:** Telecom companies lose millions due to customer churn. Retaining existing customers is 5x cheaper than acquiring new ones. This project identifies at-risk customers before they leave.  
 
 **🎯 Target Metrics:**  
