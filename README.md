@@ -97,7 +97,6 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 **🛠 Tech Stack:** Python, LangChain, OpenAI API, Streamlit, ChromaDB  
 📸 Output Preview:
 
-<img width="912" height="506" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ccdfdc43-e180-451a-b80c-82a414fa310f" />
 
 
 
