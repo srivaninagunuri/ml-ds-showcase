@@ -100,15 +100,7 @@ Confusion Matrix
 📸 Output Preview:
 
 **AI Research Paper Insight Extractor**
-
-<img width="1083" height="400" alt="image" src="https://github.com/user-attachments/assets/db23ac90-053a-4120-a9ea-c1daef488e10" />
-<img width="1079" height="400" alt="image" src="https://github.com/user-attachments/assets/f84366b9-0dc2-4b36-82dc-5d7cdcd500b2" />
-
-
-
-
-
-
+<img width="1104" height="292" alt="image" src="https://github.com/user-attachments/assets/c1f2e1ad-94e8-4383-b960-56024b2f0398" />
 
 📸 *Output:* Research Paper Q&A Interface  
 
