@@ -41,7 +41,7 @@ Predicting customer churn to reduce revenue loss and improve retention strategie
 
 
 <img width="991" height="174" alt="image" src="https://github.com/user-attachments/assets/cb03f0a6-9f9e-4f65-93cd-386fc4ca69bf" />
-<img width="890" height="174" alt="image" src="https://github.com/user-attachments/assets/e42df50f-ad12-4d84-90e1-a7848ee5d7a1" />
+<img width="991" height="174" alt="image" src="https://github.com/user-attachments/assets/e42df50f-ad12-4d84-90e1-a7848ee5d7a1" />
 
 
 
@@ -97,13 +97,10 @@ Confusion Matrix
 - Interactive **Streamlit interface**  
 
 **🛠 Tech Stack:** Python, LangChain, OpenAI API, Streamlit, ChromaDB  
+
 📸 Output Preview:
-
-**AI Research Paper Insight Extractor**
-<img width="1104" height="292" alt="image" src="https://github.com/user-attachments/assets/c1f2e1ad-94e8-4383-b960-56024b2f0398" />
-
-📸 *Output:* Research Paper Q&A Interface  
-<img width="1078" height="543" alt="image" src="https://github.com/user-attachments/assets/405872ff-41c4-4ebc-91e3-90829a871f09" />
+<img width="1083" height="400" alt="image" src="https://github.com/user-attachments/assets/e7922493-fec5-4ffa-b434-eeb3e3fc21a4" />
+<img width="1079" height="497" alt="image" src="https://github.com/user-attachments/assets/0129d67b-7d57-42ff-a964-ad4428ea83c5" />
 
 
 ---
