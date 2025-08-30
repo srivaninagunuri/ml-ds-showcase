@@ -98,6 +98,10 @@ Confusion Matrix
 
 **🛠 Tech Stack:** Python, LangChain, OpenAI API, Streamlit, ChromaDB  
 📸 Output Preview:
+<img width="1085" height="482" alt="image" src="https://github.com/user-attachments/assets/7c2269f1-c6a1-4abd-ad7a-62ee0ea70420" />
+<img width="1079" height="497" alt="image" src="https://github.com/user-attachments/assets/f84366b9-0dc2-4b36-82dc-5d7cdcd500b2" />
+
+
 
 
 
