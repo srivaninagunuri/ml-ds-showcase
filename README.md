@@ -149,6 +149,7 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 ---
 
 ### 5. Heart Disease Prediction (Neural Network)  
+
 **🏥 Business Problem:** Early detection of heart disease reduces healthcare costs and saves lives.  
 
 **🎯 Target Metrics:**  
