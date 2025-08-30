@@ -99,6 +99,9 @@ Confusion Matrix
 **🛠 Tech Stack:** Python, LangChain, OpenAI API, Streamlit, ChromaDB  
 
 📸 Output Preview:
+
+***AI Research Paper Insight Extractor***
+
 <img width="1083" height="400" alt="image" src="https://github.com/user-attachments/assets/e7922493-fec5-4ffa-b434-eeb3e3fc21a4" />
 <img width="1079" height="497" alt="image" src="https://github.com/user-attachments/assets/0129d67b-7d57-42ff-a964-ad4428ea83c5" />
 
