@@ -64,7 +64,7 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 - Target: Binary classification (Churn: Yes/No)  
 - Class Distribution: 73.5% retained, 26.5% churned
 
-📂 **Dataset:** [Download from Kaggle](https://www.kaggle.com/datasets/srivani nagunuri/Telecom Churn Dataset)
+[<u>Dataset</u>](https://www.kaggle.com/datasets/srivaninagunuri/telecom-churn-dataset)
 
 
 **🔧 Technical Highlights:**  
