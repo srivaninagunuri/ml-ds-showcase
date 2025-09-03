@@ -130,6 +130,8 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 **🛠 Tech Stack:** Python, TensorFlow, Prophet, Optuna, Streamlit, Plotly  
 
 📸 *Output:* Forecasting Dashboard with 7-day & 28-day predictions  
+<img width="804" height="465" alt="image" src="https://github.com/user-attachments/assets/5bf8aef1-3393-4f89-b044-e2913f9e04af" />
+
 
 ---
 
