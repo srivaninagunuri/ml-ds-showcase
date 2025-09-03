@@ -71,7 +71,8 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 - Forecast Target: Customer Churn (Yes/No)  
 - Features: Customer demographics, services subscribed, tenure, charges, and payment methods  
 
-[<u>Dataset</u>](https://www.kaggle.com/datasets/ybifoundation/telecom-customer-churn)
+[<u>Dataset</u>](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 
 ### 🔧 Download with Kaggle API
 To download the dataset directly:
