@@ -110,7 +110,9 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 ### 3. Retail Demand Forecasting (Time Series Pipeline) 
 ### Retail Store Inventory & Demand Dashboard
-<img width="799" height="431" alt="image" src="https://github.com/user-attachments/assets/d0f9c923-d55c-449d-8f7f-61a6cfc58108" />
+<img width="1053" height="268" alt="image" src="https://github.com/user-attachments/assets/003b54fd-9c40-483f-a004-cfea33dc30b6" />
+<img width="1053" height="268" alt="image" src="https://github.com/user-attachments/assets/8e08d51e-9f2b-4396-8a3c-d7783f488be1" />
+
 
 **📈 Business Problem:** Retailers face losses due to overstocking or stockouts. Accurate demand forecasting reduces inventory costs and improves sales.  
 
