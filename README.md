@@ -63,15 +63,6 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 - Features: Demographics, services, account info, charges  
 - Target: Binary classification (Churn: Yes/No)  
 - Class Distribution: 73.5% retained, 26.5% churned
-- ## 📊 Dataset Source
-
-**Retail Store Demand Forecast**  
-- Size: 76,000 rows (2 years of daily data)  
-- Forecast Target: Demand (units sold per day)  
-- Features: Historical demand, promotion flags, discount rates, inventory levels  
-- External Data: Weather, weather condition, holiday indicators  
-- Engineered Features: Lag values, rolling averages, standard deviations  
-
 📂 **Dataset:** [Download from Kaggle](https://www.kaggle.com/datasets/srivani nagunuri/Telecom Churn Dataset)
 
 
