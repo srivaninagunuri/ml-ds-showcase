@@ -121,7 +121,17 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 **🎯 Target Metrics:**  
 - MAPE < 10% (short-term forecast 1–4 weeks)  
 - RMSE improvement > 15% over baselines  
-- 95% prediction intervals for uncertainty  
+- 95% prediction intervals for uncertainty
+
+- 📊 Dataset Source:
+
+Retail Store Demand Forecast (76000 rows, 2 years)
+Forecast Target: Demand (units sold per day)
+Features: Historical demand, promotion flags, discount rates, inventory levels
+External data: Weather, weather condition, holiday indicators
+Engineered features: lag values, rolling averages, standard deviations
+[<u>Dataset</u>]( https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting )
+
 
 **🔧 Technical Highlights:**  
 - Feature engineering: lags, rolling averages, seasonality decomposition  
