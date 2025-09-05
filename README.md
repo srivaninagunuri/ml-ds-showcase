@@ -154,7 +154,12 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 **🎯 Target Metrics:**  
 - Sentiment classification accuracy > 90%  
 - Near real-time processing of tweets  
-- Dashboard for visual insights  
+- Dashboard for visual insights
+
+**📊 Dataset Source:**
+
+  [<u>Dataset</u>](   https://www.kaggle.com/datasets/goyaladi/twitter-dataset)
+
 
 **🔧 Technical Highlights:**  
 - NLP preprocessing: tokenization, stopword removal, lemmatization  
