@@ -148,30 +148,50 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 ---
 
-### 4. Twitter Sentiment Analysis Dashboard  
-**🛒 Business Problem:** Companies need to track customer sentiment in real-time for **brand reputation management**. Manual tracking is slow and incomplete.  
+🛍️ E-commerce Reviews Analysis Dashboard
 
-**🎯 Target Metrics:**  
-- Sentiment classification accuracy > 90%  
-- Near real-time processing of tweets  
-- Dashboard for visual insights
+🛒 Business Problem:
+E-commerce companies receive thousands of customer reviews daily. Manually analyzing these reviews is inefficient and prone to bias. Automated sentiment analysis helps businesses understand customer satisfaction, identify pain points, and improve decision-making.
 
-**📊 Dataset Source:**
+🎯 Target Metrics:
 
-  [<u>Dataset</u>](   https://www.kaggle.com/datasets/goyaladi/twitter-dataset)
+Sentiment classification accuracy > 90%
+
+Ability to analyze large volumes of reviews quickly
+
+Interactive dashboard for visual insights & predictions
+
+📊 Dataset Source:
+E-commerce product reviews dataset (user-provided / Kaggle / collected via scraping).
+[<u>Amazon</u>](https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset) 
+[<u>Flipkart</u>](https://www.kaggle.com/datasets/niraliivaghani/flipkart-dataset) 
+[<u>Ebay</u>](https://www.kaggle.com/datasets/wojtekbonicki/ebay-reviews) 
 
 
-**🔧 Technical Highlights:**  
-- NLP preprocessing: tokenization, stopword removal, lemmatization  
-- Sentiment classification with **Transformers (BERT)**  
-- Data visualization with **Plotly & Streamlit**  
-- Time series trend analysis of sentiment  
+🔧 Technical Highlights:
 
-**🛠 Tech Stack:** Python, Transformers, Scikit-learn, Streamlit, Plotly  
+NLP preprocessing: tokenization, stopword removal, lemmatization, TF-IDF vectorization
 
-📸 *Output:* Live Sentiment Dashboard  
+Machine Learning model: Logistic Regression / SVM for sentiment classification
 
----
+Interactive prediction: Enter new reviews and get instant sentiment results
+
+Data visualization: Distribution of ratings, sentiment breakdown, average rating insights
+
+Dashboard: Built using Streamlit for user-friendly interaction
+
+🛠 Tech Stack:
+Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Streamlit, Joblib
+
+📸 Output:
+📊 E-commerce Reviews Analysis Dashboard with:
+
+Dataset overview (ratings & reviews)
+
+Sentiment distribution visualization
+
+Real-time prediction for new customer reviews
+
 
 ### 5. Heart Disease Prediction (Neural Network)  
 
