@@ -148,7 +148,7 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 ---
 
-### 🛍️ E-commerce Product Review Scrapping & Analysis
+### E-commerce Product Review Scrapping & Analysis
 
 ### 🛒 Business Problem:
 E-commerce companies receive thousands of customer reviews daily. Manually analyzing these reviews is inefficient and prone to bias. Automated sentiment analysis helps businesses understand customer satisfaction, identify pain points, and improve decision-making.
