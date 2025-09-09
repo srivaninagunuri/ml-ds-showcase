@@ -148,20 +148,20 @@ Telecom companies lose millions annually due to customer churn. Retaining existi
 
 ---
 
-🛍️ E-commerce Reviews Analysis Dashboard
+### 🛍️ E-commerce Reviews Analysis
 
-🛒 Business Problem:
+### 🛒 Business Problem:
 E-commerce companies receive thousands of customer reviews daily. Manually analyzing these reviews is inefficient and prone to bias. Automated sentiment analysis helps businesses understand customer satisfaction, identify pain points, and improve decision-making.
 
-🎯 Target Metrics:
+### 🎯 Target Metrics:
 
-Sentiment classification accuracy > 90%
+Sentiment classification accuracy  85% - 90%
 
 Ability to analyze large volumes of reviews quickly
 
 Interactive dashboard for visual insights & predictions
 
-📊 Dataset Source:
+### 📊 Dataset Source:
 E-commerce product reviews dataset (user-provided / Kaggle / collected via scraping).
 
 [<u>Amazon</u>](https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset) 
@@ -171,7 +171,7 @@ E-commerce product reviews dataset (user-provided / Kaggle / collected via scrap
 [<u>Ebay</u>](https://www.kaggle.com/datasets/wojtekbonicki/ebay-reviews) 
 
 
-🔧 Technical Highlights:
+### 🔧 Technical Highlights:
 
 NLP preprocessing: tokenization, stopword removal, lemmatization, TF-IDF vectorization
 
@@ -183,7 +183,7 @@ Data visualization: Distribution of ratings, sentiment breakdown, average rating
 
 Dashboard: Built using Streamlit for user-friendly interaction
 
-🛠 Tech Stack:
+### 🛠 Tech Stack:
 Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Streamlit, Joblib
 
 📸 Output:
