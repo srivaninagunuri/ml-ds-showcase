@@ -163,8 +163,11 @@ Interactive dashboard for visual insights & predictions
 
 📊 Dataset Source:
 E-commerce product reviews dataset (user-provided / Kaggle / collected via scraping).
+
 [<u>Amazon</u>](https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset) 
+
 [<u>Flipkart</u>](https://www.kaggle.com/datasets/niraliivaghani/flipkart-dataset) 
+
 [<u>Ebay</u>](https://www.kaggle.com/datasets/wojtekbonicki/ebay-reviews) 
 
 
