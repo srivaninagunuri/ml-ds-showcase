@@ -196,6 +196,8 @@ Sentiment distribution visualization
 Real-time prediction for new customer reviews
 
 <img width="1320" height="428" alt="image" src="https://github.com/user-attachments/assets/5ff51d43-53ba-43e1-b279-bf2e5c5ea930" />
+<img width="1327" height="502" alt="image" src="https://github.com/user-attachments/assets/d582b39f-76ca-408c-b947-1bd2dcb44cb8" />
+
 
 
 
