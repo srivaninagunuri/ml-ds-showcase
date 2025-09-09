@@ -23,14 +23,14 @@ to deliver impactful insights and business value.
 
 ## 🎯 Why These Projects?  
 
-These projects are carefully selected to demonstrate skills that hiring managers actively seek in 2025:  
+### Each project is strategically chosen to demonstrate business impact and technical depth
 
 ✅ **Real-world Business Focus** – Each project solves a real business problem  
 ✅ **End-to-End Implementation** – Covers the pipeline: from data collection → cleaning → modeling → deployment  
 ✅ **Modern Tech Stack** – Uses industry tools (Python, ML, DL, NLP, Generative AI, Streamlit, SQL)  
 ✅ **Production-Ready Code** – Clean, modular, and scalable  
 ✅ **Diverse Skill Set** – Time Series, Classification, NLP, Dashboards, and GenAI  
-✅ **Each project = 1 interview story** 📈  
+
 
 ---
 
@@ -194,6 +194,9 @@ Dataset overview (ratings & reviews)
 Sentiment distribution visualization
 
 Real-time prediction for new customer reviews
+
+<img width="1320" height="428" alt="image" src="https://github.com/user-attachments/assets/5ff51d43-53ba-43e1-b279-bf2e5c5ea930" />
+
 
 
 ### 5. Heart Disease Prediction (Neural Network)  
