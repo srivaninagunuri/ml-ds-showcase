@@ -16,7 +16,7 @@ to deliver impactful insights and business value.
   1. [Telecom Customer Churn Prediction](#1-telecom-customer-churn-prediction)  
   2. [GenAI Research Paper Insight Extractor](#2-genai-research-paper-insight-extractor)  
   3. [Retail Demand Forecasting (Time Series Pipeline)](#3-retail-demand-forecasting-time-series-pipeline)  
-  4. [E-commerce Product Review Scrapping & Analysis](#4-e-commerce-product-review-scrapping--analysis)
+  4. [E-commerce Product Review Scrapping & Analysis](#4-e-commerce-product-review-scrapping--analysis)  
   5. [Heart Disease Prediction (Neural Network)](#5-heart-disease-prediction-neural-network)  
 
 ---
